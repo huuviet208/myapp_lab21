@@ -5,6 +5,10 @@ Trong thiết kế giao diện người dùng, đối với Flutter thì mọi t
 Các widget mô tả chế độ xem ở mỗi trạng thái khác nhau những thay đổi cần thiết ở mỗi trạng thái sẽ được vẽ lại để làm mới giao diện.
 ### Thực hiện
 Sinh viên hãy tạo một flutter project và đặt tên là lab21. Sau đó xóa hết các nội dung ở tệp ```lib > main.dart``` rồi viết vào mã sau đây để bắt đầu với một giao diện trống rỗng. Từ đó, sinh viên hãy thêm các thành phần giao diện vào theo gợi ý ở các đoạn mã được liệt kê trong bài thực hành này. Biên dịch và xem kết quả, chụp kết quả cho vào tệp README.md của project rồi đẩy toàn bộ lên github của mình.
+
+### Ảnh chụp màn hình:
+![Logo TechMaster](images/img1.png)
+
 **Tệp main.dart ban đầu**
 ```dart
 import 'package:flutter/material.dart';
